@@ -5,7 +5,10 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-3"
+                    "mr-9",
+                    "mt-9",
+                    "ml-9",
+                    "mb-9"
                 ]
             }
         },
